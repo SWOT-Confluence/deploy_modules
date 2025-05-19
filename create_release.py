@@ -52,7 +52,7 @@ def trigger_github_actions():
 
     arg_parser = create_args()
     args = arg_parser.parse_args()
-    token = args.token
+    token = args.ghtoken
     branch = args.branch
     version = args.version
 
