@@ -27,6 +27,7 @@ CONTAINER_LIST = [
     "combine_data",
     "init_workflow",
     "input",
+    "Lakeflow_Confluence",
     "metroman",
     "metroman_consolidation",
     "moi",

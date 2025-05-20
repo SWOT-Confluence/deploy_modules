@@ -26,10 +26,11 @@ TOP_LEVEL_ACTIONS = [
     "Infrastructure"
 ]
 REPO_LIST = [
-    # "clean_up",
+    "clean_up",
     "combine_data",
     "init_workflow",
     "input",
+    "Lakeflow_Confluence",
     "metroman",
     "metroman_consolidation",
     "moi",
@@ -39,7 +40,7 @@ REPO_LIST = [
     "output",
     "postdiagnostics",
     "prediagnostics",
-    # "priors",
+    "priors",
     "report",
     "sad",
     "setfinder",

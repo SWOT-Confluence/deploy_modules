@@ -23,10 +23,11 @@ logging.basicConfig(format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(messa
 # Constants
 OWNER = "SWOT-Confluence"
 RELEASE_LIST = [
-    # "clean_up",
-    # "combine_data",
-    # "init_workflow",
-    # "input",
+    "clean_up",
+    "combine_data",
+    "init_workflow",
+    "input",
+    "Lakeflow_Confluence",
     "metroman",
     "metroman_consolidation",
     "moi",
